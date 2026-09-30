@@ -1,4 +1,0 @@
-.terraform/
-*.exe
-*.tfstate
-*.tfstate.*
